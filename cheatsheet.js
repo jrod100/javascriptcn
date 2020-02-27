@@ -20,4 +20,4 @@
 // shift removes the first item from an array
 // unshift adds new items to an array
 // slice cuts items form an array and creates a new one altering the original array
-// splice adds new items into an array whilst replacing the original array item
+// splice adds new items into an array whilst replacing the original array
