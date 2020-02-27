@@ -15,3 +15,9 @@
 // <= less than or equal to
 // && and
 // || or
+// push adds an entry to the end of an array
+// pop removes an entry from the end of an array
+// shift removes the first item from an array
+// unshift adds new items to an array
+// slice cuts items form an array and creates a new one altering the original array
+// splice adds new items into an array whilst replacing the original array item
