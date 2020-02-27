@@ -13,6 +13,7 @@
 // >= more than or equal to
 // < less than
 // <= less than or equal to
+// % checks divisibility
 // && and
 // || or
 // push adds an entry to the end of an array
