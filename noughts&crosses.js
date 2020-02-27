@@ -20,7 +20,7 @@ console.log("    |     | "   );
 console.log(` ${space7}  |  ${space8}  | ${space9}  `);
 console.log("    |     | "   );
 
-if(space1 && space2 && space3 == space1){
+if(space1 && space2 && space3 == "x" || space1 && space2 && space3 == "o"){
     console.log("Top row wins!");
 }
 else{
